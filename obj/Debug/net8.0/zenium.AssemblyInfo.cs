@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("zenium")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+85bd35484be4399b0232a6151e21bafec1f56492")]
 [assembly: System.Reflection.AssemblyProductAttribute("zenium")]
 [assembly: System.Reflection.AssemblyTitleAttribute("zenium")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
